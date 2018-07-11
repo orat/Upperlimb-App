@@ -1,2 +1,2 @@
 # Upperlimb-App
-Heidelberg Upper extremity measurement procedure
+Upper extremity measurement procedure
